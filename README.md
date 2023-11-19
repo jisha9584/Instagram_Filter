@@ -13,6 +13,7 @@ A filter will be created through Spark AR, which will be exported to instagram. 
 Credits
 
 Team Members:
+- Jisha Goyal            jisha9584
 - Tyler Esch             Saltlyboy29
 - Krish Anil Wadhwani    Krish#7644
 - Sze Qi Choo            47#0721
